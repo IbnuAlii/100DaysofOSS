@@ -12,3 +12,4 @@ Day        | Topic      | Learning Concepts |
 ------------- | ------------- | --------------- | 
 Day 1 | [Intro](https://github.com/open-sauced/intro/blob/main/01-intro.md) |Introduction and Welcome  </br> Section 1: Prerequisites, and Objectives  </br> Section 2: Expectations | 
 Day 2 | [What is Open Source?](https://github.com/open-sauced/intro/blob/main/02-what-is-open-source.md) |Section 1: Definition  </br> Section 2: Brief History of Open Source| 
+Day 3 | |Section 3: The Evolution of Open Source  </br> Section 4: The Arrival of Linux| 
