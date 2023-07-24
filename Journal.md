@@ -10,4 +10,4 @@ At the end of this 100 Days challenge, I would like to build a rich portfolio of
 
 Day        | Topic      | Learning Concepts |
 ------------- | ------------- | --------------- | 
-Day 1 | [Intro](https://github.com/open-sauced/intro/blob/main/01-intro.md) |Introduction and Welcome  </br> Section 1: R Basics, Functions, and Data Types  </br> Section 2: Vectors, Sorting | 
+Day 1 | [Intro](https://github.com/open-sauced/intro/blob/main/01-intro.md) |Introduction and Welcome  </br> Section 1: Prerequisites, and Objectives  </br> Section 2: Expectations | 
