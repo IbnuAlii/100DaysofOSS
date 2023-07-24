@@ -16,5 +16,4 @@ Day 3 | |Section 3: The Evolution of Open Source  </br> Section 4: The Arrival o
 Day 4 | [Why is Open Source?](https://github.com/open-sauced/intro/blob/main/03-why-open-source.md) |Section 1: Access to Knowledge </br> Section 2: Access to Community| 
 Day 5 | [purpose of the open source?](https://github.com/open-sauced/intro/blob/main/03-why-open-source.md) |Section 1: Access to Knowledge </br> Section 2: Access to Community| 
 Day 6 | [Tools to be successful](https://github.com/open-sauced/intro/blob/main/04-tools-to-be-successful.md) |GitHub & Git </br> CodeSee </br> VS Code
-</br> Discord
-| 
+</br> Discord| 
